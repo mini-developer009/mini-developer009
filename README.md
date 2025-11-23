@@ -31,6 +31,11 @@
 
 ---
 
+
+<div align="center">
+  <img src="https://github.com/mini-developer009/mini-developer009/blob/output/snake.svg" alt="Snake animation" />
+</div>
+
 <h3 align="left">🏆 Achievements:</h3>
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophies">
