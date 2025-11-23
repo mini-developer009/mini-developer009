@@ -19,6 +19,23 @@
 
 ---
 
+---
+### 🌐 Connect with Me
+<p align="left">
+  <a href="http://mini-developer.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="mini-developer.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/nxtdemon009/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashik linkedin" />
+  </a>
+  <a href="https://www.facebook.com/deadxend009" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ashik facebook" />
+  </a>
+  <a href="mailto:ashik.cst.sd@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ashik email" />
+  </a>
+</p>
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mini-developer009&show_icons=true&theme=radical&count_private=true" height="150" alt="ashik stats" />
