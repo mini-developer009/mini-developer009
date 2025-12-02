@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Ashik+Islam;MERN+Stack+Developer+%7C%7C+PHP+%2F+Laravel;Open+to+Collaborations+%7C%7C+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=750&lines=Hi+it's+ashik+here+are+my+show+cases+!;i+am+a+lead+full+stack+developer+." alt="Typing SVG" />
   
   <br/>
   
