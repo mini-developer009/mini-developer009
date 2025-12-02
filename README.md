@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Ashik+Islam;Full+Stack+PHP+Developer;Building+High-Performance+Web+Apps;Open+to+Collaborations+%7C%7C+Mentor" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Ashik+Islam;MERN+Stack+Developer+%7C%7C+PHP+%2F+Laravel;Open+to+Collaborations+%7C%7C+Mentor" alt="Typing SVG" />
+  
   <br/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
 
 ### 💫 About Me:
@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
   <br/>
+  <br/>
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -50,6 +51,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   
+  <br/>
   <br/>
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -62,10 +64,11 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mini-developer009&theme=radical&hide_border=true" alt="Ashik Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mini-developer009&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mini-developer009&theme=radical&hide_border=true" width="48%" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-developer009&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Ashik Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-developer009&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" />
 </div>
 
 ### 🏆 GitHub Trophies:
