@@ -8,7 +8,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on **SMM Panels & E-commerce Architectures**
+- 🔭 I’m currently working on E-commerce Architectures**
 - 👯 I’m looking to collaborate on **Laravel & React Projects**
 - 📝 I regularly write articles on **Web Development & System Design**
 - 💬 Ask me about **PHP, Laravel, JavaScript, MySQL, and Server Management**
