@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/nxtdemon009/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/deadxend009" target="blank">
+    <a href="https://www.facebook.com/minideveloper.ashik" target="blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
     <a href="mailto:ashik.cst.sd@gmail.com" target="blank">
